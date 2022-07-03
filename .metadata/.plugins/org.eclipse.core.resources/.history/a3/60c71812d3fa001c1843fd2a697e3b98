@@ -5,8 +5,8 @@ public class Break01 {
 			if (count == 2) {
 				break;
 			}
-			System.out.println("Break = " + count);
 		}
+		System.out.println("Break = " + count);
 	}
 
 }
